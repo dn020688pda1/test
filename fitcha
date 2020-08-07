@@ -2,3 +2,4 @@
 
 $type = 'myfecha';
 $laravel = 7;
+$tag = '0.0.2';
